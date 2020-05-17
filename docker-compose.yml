@@ -35,6 +35,11 @@ services:
       POSTGRES_USER: airflow
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
+      DATA_WAREHOUSE_HOST: data-warehouse
+      DATA_WAREHOUSE_PORT: 5432
+      DATA_WAREHOUSE_USER: username
+      DATA_WAREHOUSE_PASSWORD: password
+      DATA_WAREHOUSE_DB: data_warehouse
     volumes:
       - ./requirements.txt:/requirements.txt
       - ./dags:/usr/local/airflow/dags

@@ -1,0 +1,192 @@
+patient_id,first_name,last_name,action,timestamp
+96,Lotte,Simons,discharge,2020-05-18 00:49:57.147158
+60,Luc,Neuteboom,admission,2020-05-17 12:49:57.138305
+13,Aiden,de Gruson,discharge,2020-05-18 00:49:57.127953
+62,Lucy,Wooning,admission,2020-05-17 12:49:57.138632
+91,Koen,Beijring,discharge,2020-05-18 00:49:57.146065
+26,Elise,Niermann,admission,2020-05-17 12:49:57.130864
+6,Lola,de Grunt,admission,2020-05-17 12:49:57.126098
+47,Lucy,Tirie,discharge,2020-05-18 00:49:57.135665
+53,Saar,de Roo,admission,2020-05-17 12:49:57.136737
+9,Sepp,Die Bont,admission,2020-05-17 12:49:57.126811
+79,Mette,Willems,admission,2020-05-17 12:49:57.142423
+84,Senn,Le Marec,admission,2020-05-17 12:49:57.144265
+41,Joy,Jacobi,discharge,2020-05-18 00:49:57.134372
+12,Valentijn,Janssen,admission,2020-05-17 12:49:57.127630
+52,Arthur,Adriaense,discharge,2020-05-18 00:49:57.136629
+5,Frederique,Vergeer,discharge,2020-05-18 00:49:57.125989
+76,Leon,van der Kaay,discharge,2020-05-18 00:49:57.141629
+59,Karlijn,van Venrooy,admission,2020-05-17 12:49:57.138196
+43,Jolie,de Keijzer,discharge,2020-05-18 00:49:57.134803
+75,Maarten,van Hoevel en van Zwindrecht,discharge,2020-05-18 00:49:57.141416
+65,Amin,Lips,discharge,2020-05-18 00:49:57.139387
+8,Muhammed,Totwiller,discharge,2020-05-18 00:49:57.126674
+35,Roan,Werdes,admission,2020-05-17 12:49:57.133084
+83,Florian,Ketel,discharge,2020-05-18 00:49:57.144140
+21,Niels,Booden,admission,2020-05-17 12:49:57.129477
+79,Jens,Keltenie,discharge,2020-05-18 00:49:57.142610
+50,Kay,Puig,admission,2020-05-17 12:49:57.136203
+58,Ravi,Rietveld,admission,2020-05-17 12:49:57.137840
+54,Owen,Rek,admission,2020-05-17 12:49:57.136843
+3,Liza,Glasses,discharge,2020-05-18 00:49:57.125666
+44,Nadia,Aeije,admission,2020-05-17 12:49:57.134911
+38,Olaf,Vastenhouw,admission,2020-05-17 12:49:57.133623
+39,Lisa,Adriaense,discharge,2020-05-18 00:49:57.133946
+11,Luke,van Boulogne,discharge,2020-05-18 00:49:57.127521
+41,Lena,Kirpenstein,admission,2020-05-17 12:49:57.134266
+93,Zoey,van Dalem,discharge,2020-05-18 00:49:57.146543
+67,Fay,de Grote,discharge,2020-05-18 00:49:57.139814
+40,Sophia,Huel,admission,2020-05-17 12:49:57.134053
+17,Milou,Bruijne van der Veen,discharge,2020-05-18 00:49:57.128716
+19,Ian,van Oostendorp,admission,2020-05-17 12:49:57.129046
+28,Ian,Dubois,admission,2020-05-17 12:49:57.131476
+24,Bram,Hagendoorn,admission,2020-05-17 12:49:57.130426
+48,Evy,van Hulten,admission,2020-05-17 12:49:57.135773
+32,Jolijn,Hekker,admission,2020-05-17 12:49:57.132434
+74,Elena,Wigman,discharge,2020-05-18 00:49:57.141204
+48,Mette,Adriaense,discharge,2020-05-18 00:49:57.135880
+18,Lily,Mangel,discharge,2020-05-18 00:49:57.128931
+24,Ella,van Hulten,discharge,2020-05-18 00:49:57.130537
+98,Louise,Dachgelder,admission,2020-05-17 12:49:57.147493
+16,Mats,Sas,admission,2020-05-17 12:49:57.128397
+67,Jesse,Veltman,admission,2020-05-17 12:49:57.139709
+88,Elisabeth,Hondeveld,admission,2020-05-17 12:49:57.145307
+47,Meike,Willems van Lier,admission,2020-05-17 12:49:57.135555
+83,Jasmijn,Tielemans,admission,2020-05-17 12:49:57.143847
+26,Daniel,Lamore,discharge,2020-05-18 00:49:57.130976
+50,Amelia,van Dam,discharge,2020-05-18 00:49:57.136310
+70,Louise,Berendse,admission,2020-05-17 12:49:57.140347
+0,Kaylee,van Spreuwel,admission,2020-05-17 12:49:57.124879
+37,Benjamin,Hulst,admission,2020-05-17 12:49:57.133409
+97,Angelina,Luboch,discharge,2020-05-18 00:49:57.147384
+6,Jente,Broekhoven,discharge,2020-05-18 00:49:57.126205
+33,Zeynep,de Strigter,discharge,2020-05-18 00:49:57.132756
+56,Fatima,van Rossum,discharge,2020-05-18 00:49:57.137417
+25,Maria,van Wassenaar,admission,2020-05-17 12:49:57.130647
+66,Roan,Haselaar,admission,2020-05-17 12:49:57.139495
+0,Mads,van Heusden,discharge,2020-05-18 00:49:57.125008
+7,Thijs,Strijker,discharge,2020-05-18 00:49:57.126420
+38,Hendrik,Kosten,discharge,2020-05-18 00:49:57.133730
+85,Ryan,van Soest,discharge,2020-05-18 00:49:57.144655
+14,Joshua,van Dokkum,discharge,2020-05-18 00:49:57.128179
+75,Fay,Kosten,admission,2020-05-17 12:49:57.141311
+72,Luca,Jonker,discharge,2020-05-18 00:49:57.140880
+89,Jonathan,Geertsen,discharge,2020-05-18 00:49:57.145628
+84,Arthur,Thout,discharge,2020-05-18 00:49:57.144403
+36,Tim,Stettyn,admission,2020-05-17 12:49:57.133192
+61,Fenna,Weijters,admission,2020-05-17 12:49:57.138525
+80,Quinn,van der Meulen,discharge,2020-05-18 00:49:57.142910
+62,Giovanni,Steinmeiern,discharge,2020-05-18 00:49:57.138738
+68,Mick,van Maasgouw,admission,2020-05-17 12:49:57.139921
+8,Michelle,van Asten,admission,2020-05-17 12:49:57.126530
+81,Jonas,van Ommeren,admission,2020-05-17 12:49:57.143030
+20,Livia,Scuylenborchs,admission,2020-05-17 12:49:57.129262
+69,Kyara,Westerbeek,admission,2020-05-17 12:49:57.140135
+54,Lieve,van Berkum,discharge,2020-05-18 00:49:57.136965
+49,Eline,van Suinvorde,discharge,2020-05-18 00:49:57.136096
+2,Noud,Gnodde,discharge,2020-05-18 00:49:57.125451
+87,Lise,Pieters van der Maes,admission,2020-05-17 12:49:57.145088
+16,Azra,van Kuijc,discharge,2020-05-18 00:49:57.128503
+31,Lola,Dachgelt,discharge,2020-05-18 00:49:57.132326
+37,Mika,Dorsman,discharge,2020-05-18 00:49:57.133515
+92,Loes,van de Wiel,admission,2020-05-17 12:49:57.146174
+29,Ayden,Dekker,admission,2020-05-17 12:49:57.131728
+87,Emma,van Henegouwen,discharge,2020-05-18 00:49:57.145197
+57,Vajèn,de Gruijter,discharge,2020-05-18 00:49:57.137633
+82,Anna,van Haarlem,discharge,2020-05-18 00:49:57.143601
+69,Hendrik,Wouters van Eijndhoven,discharge,2020-05-18 00:49:57.140240
+11,Lise,van den Broek,admission,2020-05-17 12:49:57.127414
+95,Pepijn,Vallenduuk,discharge,2020-05-18 00:49:57.146898
+1,Levi,Koret,discharge,2020-05-18 00:49:57.125234
+7,Raf,Langevoort,admission,2020-05-17 12:49:57.126313
+66,Carlijn,van den Heuvel,discharge,2020-05-18 00:49:57.139601
+68,Mare,Ferran,discharge,2020-05-18 00:49:57.140028
+29,Fenne,Blewanus,discharge,2020-05-18 00:49:57.131883
+78,Lola,van Verdun,admission,2020-05-17 12:49:57.141996
+86,Hailey,Teunissen,admission,2020-05-17 12:49:57.144768
+10,Romy,van Rijnsbergen,admission,2020-05-17 12:49:57.127188
+52,Janna,Brisee,admission,2020-05-17 12:49:57.136523
+80,Jake,Kas,admission,2020-05-17 12:49:57.142733
+2,Jet,Remmers,admission,2020-05-17 12:49:57.125344
+49,Siem,Tielemans,admission,2020-05-17 12:49:57.135989
+14,Louise,Heijman,admission,2020-05-17 12:49:57.128072
+57,Ecrin,van Baalen,admission,2020-05-17 12:49:57.137526
+30,Renske,Vegt,discharge,2020-05-18 00:49:57.132103
+45,Loek,van Hostaden,admission,2020-05-17 12:49:57.135127
+18,Aron,van Mispelen,admission,2020-05-17 12:49:57.128823
+99,Berat,Verbeeck,admission,2020-05-17 12:49:57.147715
+42,Giovanni,le Guellec,discharge,2020-05-18 00:49:57.134590
+85,Demi,Kof,admission,2020-05-17 12:49:57.144520
+73,Tara,Gellemeyer,admission,2020-05-17 12:49:57.140989
+42,Kayleigh,Helmerhorst,admission,2020-05-17 12:49:57.134483
+23,Amin,van Egisheim,discharge,2020-05-18 00:49:57.130278
+12,Linde,Ehlert,discharge,2020-05-18 00:49:57.127736
+56,Mirte,Bos,admission,2020-05-17 12:49:57.137310
+99,Youssef,van Velthoven,discharge,2020-05-18 00:49:57.147823
+46,Sylvie,Poncelet,discharge,2020-05-18 00:49:57.135447
+70,Ella,de Haan,discharge,2020-05-18 00:49:57.140452
+43,Kyano,Genefaas,admission,2020-05-17 12:49:57.134697
+64,Helena,Salet,discharge,2020-05-18 00:49:57.139173
+28,Cato,de Vos,discharge,2020-05-18 00:49:57.131592
+60,Jack,Zeldenrust,discharge,2020-05-18 00:49:57.138412
+71,Lena,Merckx,admission,2020-05-17 12:49:57.140559
+55,Sofie,Vrancken,discharge,2020-05-18 00:49:57.137200
+71,Evie,van Ommeren,discharge,2020-05-18 00:49:57.140664
+93,Ties,van Rossum,admission,2020-05-17 12:49:57.146389
+5,Kai,Gellemeyer,admission,2020-05-17 12:49:57.125881
+13,Emma,Meijer,admission,2020-05-17 12:49:57.127846
+36,Amir,van Tours,discharge,2020-05-18 00:49:57.133298
+55,Jennifer,Mol,admission,2020-05-17 12:49:57.137093
+94,Selina,Korsman,admission,2020-05-17 12:49:57.146660
+19,Chris,Meyer,discharge,2020-05-18 00:49:57.129153
+27,Nadia,Schokman,discharge,2020-05-18 00:49:57.131241
+78,Merle,van Vermandois,discharge,2020-05-18 00:49:57.142238
+3,Liza,van Hemert,admission,2020-05-17 12:49:57.125560
+1,Fenne,Rippey,admission,2020-05-17 12:49:57.125126
+95,Jayson,Nollee,admission,2020-05-17 12:49:57.146784
+89,Lois,Nijman,admission,2020-05-17 12:49:57.145521
+25,Kate,Kunen,discharge,2020-05-18 00:49:57.130755
+81,Aimée,Schiffer,discharge,2020-05-18 00:49:57.143178
+58,Gijs,Ketting,discharge,2020-05-18 00:49:57.138071
+97,Ella,Salet,admission,2020-05-17 12:49:57.147277
+64,Siem,Wilcken,admission,2020-05-17 12:49:57.139066
+65,Finn,Oosterhout,admission,2020-05-17 12:49:57.139281
+63,Koen,Haring,discharge,2020-05-18 00:49:57.138958
+90,Jelle,Neuzerling,admission,2020-05-17 12:49:57.145735
+17,Mike,Jochems,admission,2020-05-17 12:49:57.128611
+46,Mika,Spier,admission,2020-05-17 12:49:57.135341
+76,Mark,Janssens,admission,2020-05-17 12:49:57.141523
+32,Johanna,van de Wiel,discharge,2020-05-18 00:49:57.132541
+22,Lieke,Demmendaal,discharge,2020-05-18 00:49:57.129798
+77,Danique,Michiels,discharge,2020-05-18 00:49:57.141841
+34,Joël,Massa,discharge,2020-05-18 00:49:57.132971
+21,Noor,de Koning,discharge,2020-05-18 00:49:57.129584
+96,Lars,Knoers,admission,2020-05-17 12:49:57.147025
+90,Jayden,Houdijk,discharge,2020-05-18 00:49:57.145840
+22,Quinty,Bos,admission,2020-05-17 12:49:57.129692
+74,Colin,Cosman,admission,2020-05-17 12:49:57.141098
+9,Imran,Gerritsen,discharge,2020-05-18 00:49:57.127034
+45,Dave,van Voorhout,discharge,2020-05-18 00:49:57.135233
+82,Robin,Jasperdr.,admission,2020-05-17 12:49:57.143390
+98,Thom,Tammerijn,discharge,2020-05-18 00:49:57.147606
+63,Lara,Verheij,admission,2020-05-17 12:49:57.138847
+86,Vigo,Peterse,discharge,2020-05-18 00:49:57.144963
+20,Lex,van der Meulen,discharge,2020-05-18 00:49:57.129369
+34,Sienna,Chotzen,admission,2020-05-17 12:49:57.132864
+88,Zoë,Bekbergen,discharge,2020-05-18 00:49:57.145414
+77,Fenne,van Laar,admission,2020-05-17 12:49:57.141736
+31,Lily,Heymans,admission,2020-05-17 12:49:57.132219
+44,Zeynep,Oda,discharge,2020-05-18 00:49:57.135019
+92,Chloë,van Breukelveen,discharge,2020-05-18 00:49:57.146281
+10,Nynke,Jacobs,discharge,2020-05-18 00:49:57.127303
+4,Mathijs,Huls,admission,2020-05-17 12:49:57.125774
+30,Mehmet,van der Velde,admission,2020-05-17 12:49:57.131995
+33,Janna,van Boulogne,admission,2020-05-17 12:49:57.132649
+27,Femke,Blom,admission,2020-05-17 12:49:57.131085
+15,Bryan,van der Spaendonc,admission,2020-05-17 12:49:57.128290
+23,Elisabeth,Sestig,admission,2020-05-17 12:49:57.129977
+72,Simon,Peters,admission,2020-05-17 12:49:57.140774
+51,Jack,Boogaerts,admission,2020-05-17 12:49:57.136418
+40,Demi,Stoffel,discharge,2020-05-18 00:49:57.134159
+91,Esther,Bouhuizen,admission,2020-05-17 12:49:57.145953
+39,Sam,Weijters,admission,2020-05-17 12:49:57.133838

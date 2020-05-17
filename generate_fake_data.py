@@ -30,4 +30,4 @@ for i in range(N):
         })
 
 shuffle(patients)
-pd.DataFrame.from_records(patients).to_csv('hospital_a_2020_05_16.csv', index=False)
+pd.DataFrame.from_records(patients).to_csv('./data-lake/hospital_a_2020_05_16.csv', index=False)
