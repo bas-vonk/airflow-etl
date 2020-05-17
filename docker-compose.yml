@@ -1,0 +1,61 @@
+version: "3.3"
+services:
+
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: root
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - 80:80
+
+  airflow-postgres:
+    container_name: airflow-postgres
+    image: postgres:12.1
+    command: -p 5433
+    environment:
+      POSTGRES_DB: airflow
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      PGDATA: /data/postgres
+    volumes:
+      - airflow-postgres:/data/postgres
+
+  airflow-webserver:
+    container_name: airflow-webserver
+    image: puckel/docker-airflow:1.10.9
+    command: webserver --debug
+    environment:
+      LOAD_EX: n
+      EXECUTOR: Local
+      FERNET_KEY: 46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLbfzqDDho=  # Enables running `airflow initdb` for local development
+      POSTGRES_HOST: airflow-postgres
+      POSTGRES_PORT: 5433
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - ./requirements.txt:/requirements.txt
+      - ./dags:/usr/local/airflow/dags
+      - ./data-lake:/data-lake
+      - ./staging-area:/staging-area
+    ports:
+      - 8080:8080
+
+  data-warehouse:
+    container_name: data-warehouse
+    image: postgres:12.1
+    environment:
+      POSTGRES_DB: data_warehouse
+      POSTGRES_USER: username
+      POSTGRES_PASSWORD: password
+      PGDATA: /data/postgres
+    volumes:
+      - ./data-warehouse-schema:/docker-entrypoint-initdb.d
+      - data-warehouse:/data/postgres
+
+volumes:
+  pgadmin:
+  airflow-postgres:
+  data-warehouse:

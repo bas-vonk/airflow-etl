@@ -1,0 +1,3 @@
+fastparquet
+packaging
+psycopg2-binary
